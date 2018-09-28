@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 //Written BY DH00MK3TU | Andhera Kayam Rahe
-//Program to DEmonstrate how to Work with Files and file handling in C Language
+//Program to Demonstrate how to Work with Files and file handling in C Language
 
 //Globals
 char str[100];
