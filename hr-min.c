@@ -1,6 +1,6 @@
-//Name: Anirudh Rath
-//Section: A CSE
-//Addition two numbers
+//Coded by DH00MK3TU | Andhera Kayam Rahe
+
+//Hour to Minute conversion
 
 //Header File
 #include<stdio.h>
