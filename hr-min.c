@@ -17,3 +17,4 @@ int main() {
     printf("\n\t The time in Minutes to: %d and in Seconds is equal to: %d",b,c);
     return 0;
 }
+//
