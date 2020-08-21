@@ -1,4 +1,5 @@
-# Made By Vanshika Lal
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
 # Function for nth Fibonacci number 
   
 def Fibonacci(n): 
