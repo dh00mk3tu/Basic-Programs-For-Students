@@ -1,6 +1,7 @@
-# Made by Vanshika Lal 
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
 
-# python function to find maximum 
+# python function to find largest number 
 # in arr[] of size n 
 
 def largest(arr,n): 
