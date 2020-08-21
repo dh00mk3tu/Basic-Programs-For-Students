@@ -1,3 +1,6 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Print number in decreasing order from the input number
 n = int(input("Enter the value of n: "))
 
 if (n<=1):
