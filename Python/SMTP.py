@@ -1,4 +1,6 @@
-
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# SMTP File for emailClient File
 import smtplib
 
 sEmail = 'sender@fromdomain.com'
