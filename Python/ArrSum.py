@@ -1,4 +1,7 @@
-# Python 3 code to find sum  
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+
+# Python3 code to find sum  
 # of elements in given array 
 def _sum(arr,n): 
       
