@@ -1,3 +1,8 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Average of 5 numbers
+
+
 a = int(input("\n Enter the Marks of Subject 1: "))
 b = int(input("\n Enter the Marks of Subject 2: "))
 c = int(input("\n Enter the Marks of Subject 3: "))
