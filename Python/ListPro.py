@@ -1,5 +1,6 @@
-# Made by Vanshika Lal
-# Python3 program to multiply all values in the 
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Python3 program to multiply all values in a list
 # This uses Numpy Prod funtion
 
 import numpy 
