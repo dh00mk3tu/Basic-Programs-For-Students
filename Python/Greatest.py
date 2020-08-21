@@ -1,3 +1,7 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Greatest of Three Numbers
+
 num1 = int(input("\n Enter First Number: "))
 num2 = int(input("\n Enter Second Number: "))
 num3 = int(input("\n Enter Third Number: "))
