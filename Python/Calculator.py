@@ -1,3 +1,7 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Calculator in Python
+
 print("\n 1. Circle")
 print("\n 2. Triangle")
 print("\n 3. Square")
