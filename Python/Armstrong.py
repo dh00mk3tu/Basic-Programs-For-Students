@@ -1,3 +1,7 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Find the Armstrong Number
+
 num = int(input("Enter a number: "))
 sum = 0
 
