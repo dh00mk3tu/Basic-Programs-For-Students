@@ -1,3 +1,7 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Linear Search through an Array 
+
 items = [5, 7, 10, 12, 15]
 print("list of items is", items)
  
