@@ -1,4 +1,6 @@
-# Made By Vanshika Lal 
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+
 # Python program to print numbers
 # from n to 1
 
