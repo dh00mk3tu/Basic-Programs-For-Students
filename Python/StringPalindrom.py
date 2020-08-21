@@ -1,4 +1,6 @@
-
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Check if a string is a Palindrome or not
 my_str = str(input("\n Enter the String: "))
 
 my_str = my_str.casefold()
