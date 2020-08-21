@@ -1,3 +1,8 @@
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
+# Send Email using Python
+
+
 import yagmail
 
 sEmail = YOUR_EMAIL
