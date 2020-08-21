@@ -1,4 +1,5 @@
-# Made by Vanshika Lal
+# Made By Anirudh Rath | dh00mk3tu
+# Visit anirudhrath.tech to know more
 # Palindrome for Strings 
 # function which return reverse of a string 
 def reverse(s): 
