@@ -7,4 +7,4 @@ Made By dh00mk3tu | Anirudh Rath
 Under Construction
 
 ##  Mobile Users
-### CLick on "View Code", and view/copy one file at a time 
+### Click on "View Code", and view/copy one file at a time 
