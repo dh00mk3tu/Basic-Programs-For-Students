@@ -1,8 +1,7 @@
 # Major Programs/Projects in C/C++ & Python
 ## Major Programs/Projects in C language. First Year B.Tech
 
-This read me or FAQ will guide you on how to use/download the Programs made available to you.
-Programs are separated by Languages and are there in separate folders. 
+Browse through the code and find the code you're looking for!
 
 Made By dh00mk3tu | Anirudh Rath 
 
