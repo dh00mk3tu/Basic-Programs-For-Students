@@ -3,7 +3,6 @@
 //This is the shortest possible program to display Tables of numbers (1-10)
 //The code can be edited to display tables of numbers greated than 12 
 
-
 //Globals
 #define c_max 12
 #define r_max 10
