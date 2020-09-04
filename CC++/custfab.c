@@ -2,11 +2,8 @@
 #include<stdlib.h>
 /*#include<iomanip>
   Coded By: Anirudh Rath | DH00MK3TU
-  Changing the code won't make you a programmer
-  Trident Labs
+
   Find me on GitHub :) */
-
-
 //Function Prototypes
 
 void fab_even();

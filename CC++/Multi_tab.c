@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Coded by DH00MK3TU | Andhera Kayam Rahe 
+//Coded by DH00MK3TU 
 //This is the shortest possible program to display Tables of numbers (1-10)
 //The code can be edited to display tables of numbers greated than 12 
 

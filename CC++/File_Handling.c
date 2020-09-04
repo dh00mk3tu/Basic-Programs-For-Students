@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-//Written BY DH00MK3TU | Andhera Kayam Rahe
+//Written BY DH00MK3TU 
 //Program to Demonstrate how to Work with Files and file handling in C Language
 
 //Globals
