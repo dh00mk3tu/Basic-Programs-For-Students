@@ -39,16 +39,17 @@ I sincerely request you all to contribute to this Repository!
 
 #### Python Programs 
 Under Development
----
+___
 
 #### C/C++ Competitive Programs
 Under Development 
-
+___
 
 ### Contributors 
 1. Aniudh Rath - (@dh00mk3tu)
 2. Rajeev Rajput - (@rajeevrajput0512)
-
 ---
+
+
 ##  Mobile Users
 ### Click on "View Code", and view/copy one file at a time 
