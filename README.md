@@ -3,7 +3,7 @@ Browse through the code and find the code you're looking for!
 
 Made By dh00mk3tu | Anirudh Rath 
 
-I sincerely requet you all to contribute to this Repository!
+I sincerely request you all to contribute to this Repository!
 
 
 
@@ -23,11 +23,26 @@ I sincerely requet you all to contribute to this Repository!
  1. [Number Triangle](CC++/numtri.c)
  1. [Number Triangle 2 - Same Rows](CC++/numtri2.c)
  1. [Odd Even](CC++/odd-even.c) 
+ 1. [Palindrome](CC++/palindrome.c)
+ 1. [Pascal Triangle - Zero&One](CC++/pascal2.c)
+ 1. [Pascal Triangle - Numbers](CC++/pascaltri.c)
+ 1. [Triangle Pattern - 1](CC++/pat1.c)
+ 1. [Triangle Pattern - 2](CC++/pat2.c)
+ 1. [Triangle Pattern - 3](CC++/pat3.c)
+ 1. [Triangle Pattern - 4](CC++/pat4.c)
+ 1. [Successive Addition](CC++/sucadd.c)
+ 1. [Swap Two Numbers](CC++/swap.c)
+ 1. [Calculator Using Switch Statement](CC++/switch-C.c)
+ 1. [Check +/- Number](CC++/zero-check.c)
+ 
+---
 
+#### Python Programs 
+Under Development
+---
 
-
-
-
+#### C/C++ Competitive Programs
+Under Development 
 
 
 ### Contributors 
