@@ -1,4 +1,4 @@
-//Coded by DH00MK3TU | Andhera Kayam Rahe
+//Coded by DH00MK3TU 
 
 //Hour to Minute conversion
 

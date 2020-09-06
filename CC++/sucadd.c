@@ -10,8 +10,7 @@ int main() {
         for(j=1;j<=i;j++){
             ser += j;
         }
-        printf("%d ,", ser);+
-
+        printf("%d ,", ser);
     }
 return 0;
 }

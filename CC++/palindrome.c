@@ -1,5 +1,5 @@
 #include<stdio.h>
-//sakshamagg.515@gmail.com
+
 //Main Function
 int main() {
     int num, rnum=0, i, c_num;

@@ -1,5 +1,5 @@
 //Name: Anirudh Rath
-//Section: A CSE
+
 //Addition two numbers
 
 //Header File
